@@ -1,0 +1,16 @@
+id,name,line_ids
+1,Central Station,"1,2"
+2,North Square,1
+3,University,1
+4,City Center,1
+5,Market Place,"1,3"
+6,Airport,2
+7,Stadium,2
+8,Library,2
+9,Theater,2
+10,Park,3
+11,Mall,3
+12,Beach,3
+13,Station A,1
+14,Station B,2
+15,Station C,3

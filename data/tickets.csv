@@ -1,0 +1,7 @@
+ticket_id,origin_id,destination_id,price,path,instructions,purchase_date
+90596d04-f1da-47d9-aa12-010f99e5f0ed,1,2,3.0,"1,2","Start at Central Station|  - This is an interchange station serving lines: Red Line, Blue Line|Arrive at North Square",2025-10-30 22:27:32
+a31fab26-d975-4eec-a1b1-f84c69d4feec,1,2,3.0,"1,2","Start at Central Station|  - This is an interchange station serving lines: Red Line, Blue Line|Arrive at North Square",2025-10-30 22:31:20
+93a5ada1-5b09-43f2-8840-9a385dc7ca5c,1,2,3.0,"1,2","Start at Central Station|  - This is an interchange station serving lines: Red Line, Blue Line|Arrive at North Square",2025-10-30 22:32:21
+1c5d028d-eda4-454d-a471-26517d2fa8a5,1,2,3.0,"1,2","Start at Central Station|  - This is an interchange station serving lines: Red Line, Blue Line|Arrive at North Square",2025-10-30 22:33:50
+2843b311-84b2-4a3c-bf07-29220d799ffe,1,2,3.0,"1,2","Start at Central Station|  - This is an interchange station serving lines: Red Line, Blue Line|Arrive at North Square",2025-10-30 22:34:50
+c126af87-87b9-49f6-8b70-424e3f23ed13,6,12,10.0,"6,1,2,3,4,5,10,11,12",Start at Airport|Take Red Line Line|Pass through Central Station|Pass through North Square|Pass through University|Pass through City Center|Change from Red Line to Green Line Line|Pass through Market Place|Pass through Park|Pass through Mall|Arrive at Beach,2025-10-30 22:35:30
