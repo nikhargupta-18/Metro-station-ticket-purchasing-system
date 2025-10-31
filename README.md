@@ -273,9 +273,6 @@ python3 main.py
 3. Run tests: `make test`
 4. Check the project structure matches the README
 
-## 📝 License
-
-This project is created for educational purposes demonstrating Object-Oriented Programming concepts in Python.
 
 ## 🤝 Contributing
 
